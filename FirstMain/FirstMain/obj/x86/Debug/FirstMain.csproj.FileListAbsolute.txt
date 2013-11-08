@@ -1,0 +1,5 @@
+C:\Users\sa\Documents\GitHub\SoftwareENG\FirstMain\FirstMain\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sa\Documents\GitHub\SoftwareENG\FirstMain\FirstMain\obj\x86\Debug\FirstMain.Form1.resources
+C:\Users\sa\Documents\GitHub\SoftwareENG\FirstMain\FirstMain\obj\x86\Debug\FirstMain.Properties.Resources.resources
+C:\Users\sa\Documents\GitHub\SoftwareENG\FirstMain\FirstMain\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sa\Documents\GitHub\SoftwareENG\FirstMain\FirstMain\obj\x86\Debug\GenerateResource.write.1.tlog
