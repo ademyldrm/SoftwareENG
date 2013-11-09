@@ -1,0 +1,5 @@
+C:\Users\sa\Documents\GitHub\SoftwareENG\Second frFrt\Second frFrt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sa\Documents\GitHub\SoftwareENG\Second frFrt\Second frFrt\obj\x86\Debug\Second_frFrt.Form1.resources
+C:\Users\sa\Documents\GitHub\SoftwareENG\Second frFrt\Second frFrt\obj\x86\Debug\Second_frFrt.Properties.Resources.resources
+C:\Users\sa\Documents\GitHub\SoftwareENG\Second frFrt\Second frFrt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sa\Documents\GitHub\SoftwareENG\Second frFrt\Second frFrt\obj\x86\Debug\GenerateResource.write.1.tlog
