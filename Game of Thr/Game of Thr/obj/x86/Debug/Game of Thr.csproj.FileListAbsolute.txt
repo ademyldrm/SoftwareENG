@@ -1,0 +1,5 @@
+C:\Users\sa\Documents\GitHub\SoftwareENG\Game of Thr\Game of Thr\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sa\Documents\GitHub\SoftwareENG\Game of Thr\Game of Thr\obj\x86\Debug\Game_of_Thr.Form1.resources
+C:\Users\sa\Documents\GitHub\SoftwareENG\Game of Thr\Game of Thr\obj\x86\Debug\Game_of_Thr.Properties.Resources.resources
+C:\Users\sa\Documents\GitHub\SoftwareENG\Game of Thr\Game of Thr\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sa\Documents\GitHub\SoftwareENG\Game of Thr\Game of Thr\obj\x86\Debug\GenerateResource.write.1.tlog
