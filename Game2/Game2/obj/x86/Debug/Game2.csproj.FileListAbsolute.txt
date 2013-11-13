@@ -1,0 +1,5 @@
+C:\Users\sa\Documents\GitHub\SoftwareENG\Game2\Game2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sa\Documents\GitHub\SoftwareENG\Game2\Game2\obj\x86\Debug\Game2.Form1.resources
+C:\Users\sa\Documents\GitHub\SoftwareENG\Game2\Game2\obj\x86\Debug\Game2.Properties.Resources.resources
+C:\Users\sa\Documents\GitHub\SoftwareENG\Game2\Game2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sa\Documents\GitHub\SoftwareENG\Game2\Game2\obj\x86\Debug\GenerateResource.write.1.tlog
